@@ -1,2 +1,5 @@
 # hello-world
-nuevo repositorio
+
+Hi!
+
+Este es una wiki de prueba 
